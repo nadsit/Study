@@ -1,0 +1,13 @@
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\06_CharityCampaign\bin\Debug\netcoreapp3.1\06_CharityCampaign.exe
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\06_CharityCampaign\bin\Debug\netcoreapp3.1\06_CharityCampaign.deps.json
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\06_CharityCampaign\bin\Debug\netcoreapp3.1\06_CharityCampaign.runtimeconfig.json
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\06_CharityCampaign\bin\Debug\netcoreapp3.1\06_CharityCampaign.runtimeconfig.dev.json
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\06_CharityCampaign\bin\Debug\netcoreapp3.1\06_CharityCampaign.dll
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\06_CharityCampaign\bin\Debug\netcoreapp3.1\06_CharityCampaign.pdb
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\06_CharityCampaign\obj\Debug\netcoreapp3.1\06_CharityCampaign.csprojAssemblyReference.cache
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\06_CharityCampaign\obj\Debug\netcoreapp3.1\06_CharityCampaign.AssemblyInfoInputs.cache
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\06_CharityCampaign\obj\Debug\netcoreapp3.1\06_CharityCampaign.AssemblyInfo.cs
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\06_CharityCampaign\obj\Debug\netcoreapp3.1\06_CharityCampaign.csproj.CoreCompileInputs.cache
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\06_CharityCampaign\obj\Debug\netcoreapp3.1\06_CharityCampaign.dll
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\06_CharityCampaign\obj\Debug\netcoreapp3.1\06_CharityCampaign.pdb
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\06_CharityCampaign\obj\Debug\netcoreapp3.1\06_CharityCampaign.genruntimeconfig.cache

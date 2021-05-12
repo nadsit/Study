@@ -1,0 +1,12 @@
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\04_VacationBooksList\bin\Debug\netcoreapp3.1\04_VacationBooksList.exe
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\04_VacationBooksList\bin\Debug\netcoreapp3.1\04_VacationBooksList.deps.json
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\04_VacationBooksList\bin\Debug\netcoreapp3.1\04_VacationBooksList.runtimeconfig.json
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\04_VacationBooksList\bin\Debug\netcoreapp3.1\04_VacationBooksList.runtimeconfig.dev.json
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\04_VacationBooksList\bin\Debug\netcoreapp3.1\04_VacationBooksList.dll
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\04_VacationBooksList\bin\Debug\netcoreapp3.1\04_VacationBooksList.pdb
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\04_VacationBooksList\obj\Debug\netcoreapp3.1\04_VacationBooksList.AssemblyInfoInputs.cache
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\04_VacationBooksList\obj\Debug\netcoreapp3.1\04_VacationBooksList.AssemblyInfo.cs
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\04_VacationBooksList\obj\Debug\netcoreapp3.1\04_VacationBooksList.csproj.CoreCompileInputs.cache
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\04_VacationBooksList\obj\Debug\netcoreapp3.1\04_VacationBooksList.dll
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\04_VacationBooksList\obj\Debug\netcoreapp3.1\04_VacationBooksList.pdb
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\04_VacationBooksList\obj\Debug\netcoreapp3.1\04_VacationBooksList.genruntimeconfig.cache

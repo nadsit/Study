@@ -1,0 +1,13 @@
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\08_FishTank\bin\Debug\netcoreapp3.1\08_FishTank.exe
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\08_FishTank\bin\Debug\netcoreapp3.1\08_FishTank.deps.json
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\08_FishTank\bin\Debug\netcoreapp3.1\08_FishTank.runtimeconfig.json
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\08_FishTank\bin\Debug\netcoreapp3.1\08_FishTank.runtimeconfig.dev.json
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\08_FishTank\bin\Debug\netcoreapp3.1\08_FishTank.dll
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\08_FishTank\bin\Debug\netcoreapp3.1\08_FishTank.pdb
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\08_FishTank\obj\Debug\netcoreapp3.1\08_FishTank.csprojAssemblyReference.cache
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\08_FishTank\obj\Debug\netcoreapp3.1\08_FishTank.AssemblyInfoInputs.cache
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\08_FishTank\obj\Debug\netcoreapp3.1\08_FishTank.AssemblyInfo.cs
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\08_FishTank\obj\Debug\netcoreapp3.1\08_FishTank.csproj.CoreCompileInputs.cache
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\08_FishTank\obj\Debug\netcoreapp3.1\08_FishTank.dll
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\08_FishTank\obj\Debug\netcoreapp3.1\08_FishTank.pdb
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\08_FishTank\obj\Debug\netcoreapp3.1\08_FishTank.genruntimeconfig.cache

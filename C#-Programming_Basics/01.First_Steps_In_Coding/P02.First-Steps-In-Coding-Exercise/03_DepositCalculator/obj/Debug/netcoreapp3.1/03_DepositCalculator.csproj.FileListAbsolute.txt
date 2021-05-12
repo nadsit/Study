@@ -1,0 +1,13 @@
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\03_DepositCalculator\bin\Debug\netcoreapp3.1\03_DepositCalculator.exe
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\03_DepositCalculator\bin\Debug\netcoreapp3.1\03_DepositCalculator.deps.json
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\03_DepositCalculator\bin\Debug\netcoreapp3.1\03_DepositCalculator.runtimeconfig.json
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\03_DepositCalculator\bin\Debug\netcoreapp3.1\03_DepositCalculator.runtimeconfig.dev.json
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\03_DepositCalculator\bin\Debug\netcoreapp3.1\03_DepositCalculator.dll
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\03_DepositCalculator\bin\Debug\netcoreapp3.1\03_DepositCalculator.pdb
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\03_DepositCalculator\obj\Debug\netcoreapp3.1\03_DepositCalculator.csprojAssemblyReference.cache
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\03_DepositCalculator\obj\Debug\netcoreapp3.1\03_DepositCalculator.AssemblyInfoInputs.cache
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\03_DepositCalculator\obj\Debug\netcoreapp3.1\03_DepositCalculator.AssemblyInfo.cs
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\03_DepositCalculator\obj\Debug\netcoreapp3.1\03_DepositCalculator.csproj.CoreCompileInputs.cache
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\03_DepositCalculator\obj\Debug\netcoreapp3.1\03_DepositCalculator.dll
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\03_DepositCalculator\obj\Debug\netcoreapp3.1\03_DepositCalculator.pdb
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\03_DepositCalculator\obj\Debug\netcoreapp3.1\03_DepositCalculator.genruntimeconfig.cache

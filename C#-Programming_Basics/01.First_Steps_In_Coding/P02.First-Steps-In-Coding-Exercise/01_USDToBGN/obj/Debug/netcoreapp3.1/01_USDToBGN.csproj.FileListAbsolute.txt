@@ -1,0 +1,13 @@
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\01_USDToBGN\bin\Debug\netcoreapp3.1\01_USDToBGN.exe
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\01_USDToBGN\bin\Debug\netcoreapp3.1\01_USDToBGN.deps.json
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\01_USDToBGN\bin\Debug\netcoreapp3.1\01_USDToBGN.runtimeconfig.json
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\01_USDToBGN\bin\Debug\netcoreapp3.1\01_USDToBGN.runtimeconfig.dev.json
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\01_USDToBGN\bin\Debug\netcoreapp3.1\01_USDToBGN.dll
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\01_USDToBGN\bin\Debug\netcoreapp3.1\01_USDToBGN.pdb
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\01_USDToBGN\obj\Debug\netcoreapp3.1\01_USDToBGN.csprojAssemblyReference.cache
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\01_USDToBGN\obj\Debug\netcoreapp3.1\01_USDToBGN.AssemblyInfoInputs.cache
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\01_USDToBGN\obj\Debug\netcoreapp3.1\01_USDToBGN.AssemblyInfo.cs
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\01_USDToBGN\obj\Debug\netcoreapp3.1\01_USDToBGN.csproj.CoreCompileInputs.cache
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\01_USDToBGN\obj\Debug\netcoreapp3.1\01_USDToBGN.dll
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\01_USDToBGN\obj\Debug\netcoreapp3.1\01_USDToBGN.pdb
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\01_USDToBGN\obj\Debug\netcoreapp3.1\01_USDToBGN.genruntimeconfig.cache

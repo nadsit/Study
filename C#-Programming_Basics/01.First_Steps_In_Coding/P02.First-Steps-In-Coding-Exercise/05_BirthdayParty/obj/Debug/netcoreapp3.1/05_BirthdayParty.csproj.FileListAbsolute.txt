@@ -1,0 +1,12 @@
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\05_BirthdayParty\bin\Debug\netcoreapp3.1\05_BirthdayParty.exe
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\05_BirthdayParty\bin\Debug\netcoreapp3.1\05_BirthdayParty.deps.json
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\05_BirthdayParty\bin\Debug\netcoreapp3.1\05_BirthdayParty.runtimeconfig.json
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\05_BirthdayParty\bin\Debug\netcoreapp3.1\05_BirthdayParty.runtimeconfig.dev.json
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\05_BirthdayParty\bin\Debug\netcoreapp3.1\05_BirthdayParty.dll
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\05_BirthdayParty\bin\Debug\netcoreapp3.1\05_BirthdayParty.pdb
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\05_BirthdayParty\obj\Debug\netcoreapp3.1\05_BirthdayParty.AssemblyInfoInputs.cache
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\05_BirthdayParty\obj\Debug\netcoreapp3.1\05_BirthdayParty.AssemblyInfo.cs
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\05_BirthdayParty\obj\Debug\netcoreapp3.1\05_BirthdayParty.csproj.CoreCompileInputs.cache
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\05_BirthdayParty\obj\Debug\netcoreapp3.1\05_BirthdayParty.dll
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\05_BirthdayParty\obj\Debug\netcoreapp3.1\05_BirthdayParty.pdb
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\05_BirthdayParty\obj\Debug\netcoreapp3.1\05_BirthdayParty.genruntimeconfig.cache

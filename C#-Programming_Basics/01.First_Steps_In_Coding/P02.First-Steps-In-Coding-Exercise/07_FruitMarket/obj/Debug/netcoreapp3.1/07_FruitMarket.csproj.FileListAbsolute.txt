@@ -1,0 +1,13 @@
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\07_FruitMarket\bin\Debug\netcoreapp3.1\07_FruitMarket.exe
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\07_FruitMarket\bin\Debug\netcoreapp3.1\07_FruitMarket.deps.json
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\07_FruitMarket\bin\Debug\netcoreapp3.1\07_FruitMarket.runtimeconfig.json
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\07_FruitMarket\bin\Debug\netcoreapp3.1\07_FruitMarket.runtimeconfig.dev.json
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\07_FruitMarket\bin\Debug\netcoreapp3.1\07_FruitMarket.dll
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\07_FruitMarket\bin\Debug\netcoreapp3.1\07_FruitMarket.pdb
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\07_FruitMarket\obj\Debug\netcoreapp3.1\07_FruitMarket.csprojAssemblyReference.cache
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\07_FruitMarket\obj\Debug\netcoreapp3.1\07_FruitMarket.AssemblyInfoInputs.cache
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\07_FruitMarket\obj\Debug\netcoreapp3.1\07_FruitMarket.AssemblyInfo.cs
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\07_FruitMarket\obj\Debug\netcoreapp3.1\07_FruitMarket.csproj.CoreCompileInputs.cache
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\07_FruitMarket\obj\Debug\netcoreapp3.1\07_FruitMarket.dll
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\07_FruitMarket\obj\Debug\netcoreapp3.1\07_FruitMarket.pdb
+C:\Users\progr\source\repos\P02.First-Steps-In-Coding-Exercise\07_FruitMarket\obj\Debug\netcoreapp3.1\07_FruitMarket.genruntimeconfig.cache
